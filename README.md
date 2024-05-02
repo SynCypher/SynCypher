@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SynCypher
-- 👀 I’m interested in Machine Learning, Computer Vision, Software Architecture & Ditigal Forensics
-- 🌱 I’m currently learning MPEG MacroBlock & OpenCV in Quantum Relativity
-- 💞️ Don't mess with time
+- 👀 I specialize in Linux and Unix (macOS) architecture.
+- 🐙 I'm certified in Cloud Administration and currently pursuing DevOps.
+- 🕸️ My favorite typing discipline is React.js, Next.Js. I would eventually like to learn Rust and C compilers.
 - 📫 How to reach me phprocj@gmail.com
 
 <!---
